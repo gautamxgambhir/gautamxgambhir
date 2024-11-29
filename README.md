@@ -6,8 +6,8 @@
 </h1>
 
 <h2 align="center">👨🏻‍💻 About Me :<h2>
-<div align="center">
   
+<div align="center">
   <p align="left" style="font-size: 16px; line-height: 1.5;">
     Hello! I'm <strong>Gautam Gambhir</strong>, a developer and designer currently in Class 10. I have 4+ years of experience with Python and also work with HTML, CSS, and JavaScript for web development.  
     My skills include UI/UX design using tools like Figma and Framer, and I’m proficient in creative software such as Photoshop, Premiere Pro, and After Effects.  
@@ -47,6 +47,7 @@
 ---
 
 <h2 align="center">🚀 Projects<h2>
+
 
 ### [Sheriff](https://github.com/gautamxgambhir/sheriff)
 Sheriff - An AI-enabled program to detect car speed and prevent road accidents. Features : 
