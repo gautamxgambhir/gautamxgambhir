@@ -5,9 +5,9 @@
   </a>
 </h1>
 
-### <div align="center">About Me</div>
+<h2 align="center">👨🏻‍💻 About Me :<h2>
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="About Me GIF" height="150px" align="left">
+  
   <p align="left" style="font-size: 16px; line-height: 1.5;">
     Hello! I'm <strong>Gautam Gambhir</strong>, a developer and designer currently in Class 10. I have 4+ years of experience with Python and also work with HTML, CSS, and JavaScript for web development.  
     My skills include UI/UX design using tools like Figma and Framer, and I’m proficient in creative software such as Photoshop, Premiere Pro, and After Effects.  
@@ -23,20 +23,21 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 **1st Place** in **CodeDay 2024**, New Delhi  
-- 🥉 **3rd Place** in **Counterspell**, New Delhi  
+<h2 align="center">🏆 Achievements<h2>
+
+<p align="center">🥇 <b>1st Place</b> in <b>CodeDay 2024</b>, New Delhi  
+<br>🥉 <b>3rd Place</b> in <b>Counterspell 2024</b>, New Delhi  </p>
 
 ---
 
-## 🔧 Languages & Tools
+<h2 align="center">🔧 Languages & Tools<h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,figma,photoshop,premiere,aftereffects,audition,arduino,bash,git,vscode,linux&perline=10" width="600px">
 </p>
 
 ---
 
-<h2 align="center">⚡ Most Used Languages ⚡</h2>
+<h2 align="center">⚡ Most Used Languages <h2>
 <p align="center">
   <a href="https://github.com/gautamxgambhir">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamxgambhir&layout=compact&title_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=4" width="325px">
@@ -45,7 +46,8 @@
 
 ---
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects<h2>
+
 ### [Sheriff](https://github.com/gautamxgambhir/sheriff)
 Sheriff - An AI-enabled program to detect car speed and prevent road accidents. Features : 
 - Detect car speed using speed=distance/time formula.
@@ -59,5 +61,5 @@ A Chrome extension for summarizing webpages and extracting website information. 
 - Summarizes content and displays website metadata  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=53da54&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=53da54&height=100&section=footer&opacity=0."/>
 </p>
