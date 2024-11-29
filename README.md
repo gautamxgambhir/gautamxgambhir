@@ -15,8 +15,6 @@
   <a href="https://instagram.com/gautamxgambhir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=23></a>
 </p>
 
----
-
 <h2 align="center">🏆 Achievements<h2>
 
 <p align="center">🥇 <b>1st Place</b> in <b>CodeDay 2024</b>, New Delhi  
@@ -28,8 +26,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,figma,photoshop,premiere,aftereffects,audition,arduino,bash,git,vscode,linux&perline=10" width="600px">
 </p>
-
----
 
 <h2 align="center">⚡ Most Used Languages <h2>
 <p align="center">
