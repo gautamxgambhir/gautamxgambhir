@@ -30,7 +30,7 @@
 <h2 align="center">⚡ Most Used Languages <h2>
 <p align="center">
   <a href="https://github.com/gautamxgambhir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamxgambhir&layout=compact&title_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=4" width="325px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamxgambhir&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=20232a&border_color=61dafb&hide_border=true&langs_count=4" width="325px">
   </a>
 </p>
 
@@ -52,5 +52,5 @@ A Chrome extension for summarizing webpages and extracting website information. 
 - Summarizes content and displays website metadata  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=53da54&height=100&section=footer&opacity=0."/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=53da54&height=100&section=footer&opacity=0.6&width=100%"/>
 </p>
