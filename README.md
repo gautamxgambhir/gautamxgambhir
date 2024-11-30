@@ -10,7 +10,7 @@
 ### <p align="center">Hello! I'm <strong>Gautam Gambhir</strong>, a developer and designer currently in Class 10. I have 4+ years of experience with Python and also work with HTML, CSS, and JavaScript for web development. My skills include UI/UX design using tools like Figma and Framer, and I’m proficient in creative software such as Photoshop, Premiere Pro, and After Effects. I also have a keen interest in ethical hacking and bug bounty hunting. My goal is to combine creativity with technology to solve real-world problems.</p>
 
 <p align="center">
-  <a href="mailto:ggambhir1919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23 style="border-radius: 10px;"></a>
+  <a href="mailto:ggambhir1919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23 style="border-radius: 100px;"></a>
   <a href="https://github.com/gautamxgambhir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
   <a href="https://instagram.com/gautamxgambhir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=23></a>
 </p>
