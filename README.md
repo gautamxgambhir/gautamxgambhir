@@ -12,8 +12,9 @@
 <p align="center">
   <a href="mailto:ggambhir1919@gmail.com" style="border-radius: 100px;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <a href="https://github.com/gautamxgambhir"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
-  <a href="https://x.com/gautamxgambhir"><img src="https://img.shields.io/badge/Twitter?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
   <a href="https://instagram.com/gautamxgambhir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=23></a>
+  <a href="https://x.com/gautamxgambhir"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height=23></a>
+</p>
 </p>
 
 <h2 align="center">🏆 Achievements<h2>
