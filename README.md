@@ -19,7 +19,7 @@
 
 <h2 align="center">🏆 Achievements<h2>
 
-<p align="center">🥇 <b>1st Place</b> in <b>CodeDay 2024</b>, New Delhi  
+<p align="center">🥇 <b>1st Place</b> in <b>CodeDay 2024</b>, IIT Delhi  
 <br>🥉 <b>3rd Place</b> in <b>Counterspell 2024</b>, New Delhi  </p>
 
 ---
