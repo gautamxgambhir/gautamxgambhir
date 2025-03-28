@@ -53,6 +53,44 @@ A Chrome extension for summarizing webpages and extracting website information. 
 - Responsive design with a sleek UI  
 - Summarizes content and displays website metadata  
 
+### [Care-Kit](https://github.com/gautamxgambhir/Care-Kit)
+Care Kit: AI-Powered Mental Health Support Platform. Features :
+- AI CareBot: Receive AI-generated emotional support and mental wellness tips using Together API.
+- Mindfulness & Coping Strategies: Learn techniques to manage stress, anxiety, and other emotions.
+- Resources & Help: Find emergency helplines and support groups for mental health assistance.
+
+### [Surfer](https://github.com/gautamxgambhir/AceNCERT)
+AceNCERT: AI-Powered NCERT Question Generator & Validator. Features :
+- Get text from random pages of NCERT books for a selected class and subject.
+- Generate different types of questions (MCQs, one-word answers, and True/False) using AI.
+- Validate the correctness of answers using AI.
+
+### [Surfer](https://github.com/gautamxgambhir/MineMentor)
+MineMentor: AI-Powered Minecraft Assistant Bot. Features :
+- AI-Powered Responses: Uses Together AI to generate real-time responses to Minecraft-related queries.
+- Continuous Movement: Automatically moves in a square pattern to avoid AFK kicks.
+- Quick Command Responses: Uses the ? prefix for quick in-game queries.
+- Auto-Reconnect: If disconnected, MineMentor will attempt to reconnect automatically.
+- Customizable Bot Name: You can change the bot’s display name when launching.
+
+### [Surfer](https://github.com/gautamxgambhir/Argos)
+Argos: AI-Powered Debate Bot for Telegram & Discord. Features :
+- Opposing Debate Stance: If you argue in favor of a topic, Argos will argue against it, and vice versa.
+- Supports Telegram & Discord: Available as both a Telegram bot and a Discord bot.
+- AI-Powered Responses: Uses Together API to generate intelligent counterarguments.
+- Fast & Dynamic: Provides quick responses to keep the debate engaging.
+- Customizable Prefix for Discord: Uses ! as the default prefix for Discord commands.
+
+### [Surfer](https://github.com/gautamxgambhir/CareBot)
+CareBot: AI-Powered Compassionate Health Support Bot for Telegram & Discord. Features :
+- Emotional Support: Provides comforting and supportive responses to users who need guidance.
+- Health & Wellness Advice: Offers general wellness and self-care tips.
+- Supports Telegram & Discord: Available as both a Telegram bot and a Discord bot.
+- AI-Powered Conversations: Uses Together API to generate compassionate and intelligent responses.
+- Fast & Engaging: Responds instantly to user queries.
+- Uses ? as the default prefix for Discord commands.
+
+### [Surfer](https://github.com/gautamxgambhir/surfer)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=53da54&height=100&section=footer&opacity=0.6&width=100%"/>
 </p>
